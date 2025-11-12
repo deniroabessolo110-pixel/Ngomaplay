@@ -1,1 +1,0 @@
-web: gunicorn NgomaPlay_flask_app:app
